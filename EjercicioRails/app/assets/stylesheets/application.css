@@ -11,10 +11,10 @@
  * It is generally better to create a new file per style scope.
  *
  *= require bootstrap.min
+ *= require font-awesome.min
  *= require style
  *= require animate
  *= require magnific-popup
- *= require font-awesome.min
  *= require linear-icons
  *= require_tree .
  *= require_self
